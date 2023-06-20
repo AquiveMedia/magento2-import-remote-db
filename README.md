@@ -1,4 +1,4 @@
-# Import remote database script
+# Import remote database for Magento 2
 
 Goal and purpose of this script is to easily import a database from a remote server. This is build and tested for Magento 2 stores.
 
