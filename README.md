@@ -2,6 +2,10 @@
 
 Goal and purpose of this script is to easily import a database from a remote server. This is build and tested for Magento 2 stores.
 
+## Demo
+
+![demo-usage.gif](demo-usage.gif)
+
 ## Benefits
 
 - Make specific configurations for projects by using its own .env file. E.g. add prod and staging sites
